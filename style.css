@@ -1,5 +1,5 @@
 /* geral */
-body, p, h1, h2, input, textarea {
+body  {
 	margin: 0; 
 }
 h2 {
@@ -12,6 +12,7 @@ h2 {
   color: black;
   padding: 0 15px;
   height: 60px;
+  border-bottom: solid 1px;
 }
 
 #navbar h2, #navbar ul, #navbar-list li {
@@ -44,19 +45,52 @@ h2 {
 }
 
 /* sobre */ 
-#about-section {
-  padding: 30px;
-  margin-left: 150px;
-  margin-right: 150px;
-  background-color:  #fffafa;
-  border-bottom: solid 1px black;
-}
 
 h1 {
   font-family: Montserrat;
 }
 
-#data-section {
-  font-family: Roboto;
+.post-container {
+  width: 70%;
+  height: 100%;
+  margin: 0 auto -10px auto;
+  background-color: #fffafa;
+  border-left: solid 1px;
+  border-right: solid 1px;
+}
+
+.post-container .date {
+  font-family: 'Roboto',sans-serif;
   color: #008080;
+}
+
+.post-container div.post-content {
+  width: 90%;
+  font-family: Helvetica, sans-serif;
+  font-weight: normal;
+}
+
+.post-container .post {
+  margin-bottom: 10px;
+  padding: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: justify;
+}
+
+/* tirar o link sublinhado */
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+/* tirar a cor do link */
+a { color: inherit; } 
+
+.rodape {
+  border-top: solid 1px black;
+  background-color:  #fffafa;
+  padding: 15px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
