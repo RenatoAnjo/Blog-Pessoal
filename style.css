@@ -1,0 +1,62 @@
+/* geral */
+body, p, h1, h2, input, textarea {
+	margin: 0; 
+}
+h2 {
+  font-size: 30px;
+}
+
+/* navbar */
+#navbar {
+  background-color:  #fffafa;
+  color: black;
+  padding: 0 15px;
+  height: 60px;
+}
+
+#navbar h2, #navbar ul, #navbar-list li {
+  display: inline-block;
+}
+
+#navbar h2 {
+  margin: 0;
+  line-height: 60px;
+  margin-left: 55px;
+}
+
+#navbar img {
+  height: 40px; 
+  position: absolute;
+  top: 10px;
+}
+
+#navbar ul {
+  float: right;
+}
+
+#navbar li {
+  margin: 0 10px;
+}
+
+#navbar-list li a {
+  text-decoration: none;
+  color: black;
+}
+
+/* sobre */ 
+#about-section {
+  padding: 30px;
+  margin-left: 150px;
+  margin-right: 150px;
+  background-color:  #fffafa;
+  border-bottom: solid 1px black;
+}
+
+h1 {
+  font-family: Montserrat;
+}
+
+#data-section {
+  font-family: Roboto;
+  color: #008080;
+}
