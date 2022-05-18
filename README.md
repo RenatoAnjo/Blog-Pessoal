@@ -1,9 +1,13 @@
 # Objetivo:
-Aprimorar e praticar habilidades utilizando as seguintes tecnologias:<br>
-HTML, CSS e aplicar responsividade
+Aprimorar  habilidades utilizando as seguintes tecnologias:<br>
+HTML e CSS 
 
 ## Webpage: <br>
-Blog Pessoal :
+<ul>
+<li>Artigos</li>
+<li>Sobre</li>
+<li>Contato</li>
+</ul>
 
 
 
