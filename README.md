@@ -14,14 +14,12 @@ Postagens diária sobre saxofone e música em geral.
 
 <ul>
 	<li><strong>Index:</strong></li>
-		<ol>		
+		<ul>		
 			<li>Barra de Navegação: Home Page, Sobre, Postagens e Contato</li>
 			<li>Contéudo das postagens</li>
 			<li>Roda-pé</li>
-		</ol> 
-	<ul>
-		 <li><img src="./src/home.png"></li>
-		 <li><img src="./src/home2.png"></li>
-		 <li><img src="./src/home3.png"></li>
-	</ul>
-</ul>
+		</ul> <br>
+</ul>	
+<img src="./src/home.png">
+<img src="./src/home2.png">
+<img src="./src/home3.png">
