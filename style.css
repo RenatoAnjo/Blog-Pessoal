@@ -94,3 +94,38 @@ a { color: inherit; }
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.post-content #boquilha-publtree {
+  width: 50%;
+  height: 50%;
+}
+
+.post-content #tamanho-post {
+  font-size: 25px;
+  text-align: center;
+}
+
+.post-content #curisidade-boquuilha {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+  color: rgb(26, 22, 22);
+  font-style: italic;
+  padding: 10px;
+}
+
+.post-content #curiosidade-saxofone {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+  color: rgb(26, 22, 22);
+  padding: 10px;
+}
+
+.post-content #titulo-tab li {
+  font-size: larger;
+  color: red;
+  font-style: italic;
+}
+.post-content #lista-boquilha {
+  font-size:larger;
+  color: rgb(26, 22, 22);
+}
