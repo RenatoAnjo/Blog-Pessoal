@@ -9,17 +9,16 @@ Contato para maiores informações e dúvidas.<br>
 Postagens diária sobre saxofone e música em geral.
 </p>
 
-
-## Imagens do Projeto:
-
 <ul>
-	<li><strong>Index:</strong></li>
+	<strong>Index:</strong>
 		<ul>		
 			<li>Barra de Navegação: Home Page, Sobre, Postagens e Contato</li>
 			<li>Contéudo das postagens</li>
 			<li>Roda-pé</li>
 		</ul> <br>
 </ul>	
-<img src="./src/home.png">
-<img src="./src/home2.png">
-<img src="./src/home3.png">
+
+## Lind do Projeto:
+<a href="https://renatoanjo.github.io/Blog-Pessoal/" target="_blank">Blog Pessoal</a>
+
+
